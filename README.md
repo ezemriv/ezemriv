@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi there 👋
+--------
 
-<!--
-**ezemriv/ezemriv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Eze, a **Data Scientist** and former PhD Molecular **Biology Researcher**, with a passion for data mining and machine learning. Coming from a biomedical background, I love exploring the intersection of data science and nature, both in healthcare and sustainability.
 
-Here are some ideas to get you started:
+<img align="center" alt="scientist" width="300" src="output.gif">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+About Me
+--------
+🔬 PhD in Molecular Biology
+💻 Transitioned to Data Science
+🧠 Fascinated by the intersection of biology and machine learning
+🌱 Currently improving my computer vision skills
