@@ -3,10 +3,17 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
-  <img src="https://img.shields.io/static/v1?message=Portfolio&logo=link&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge&link=https://ezemriv.github.io/DS-Portfolio/" height="25" alt="Portfolio logo" />
-  <img src="https://img.shields.io/static/v1?message=Email&logo=mail&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge&link=mailto:ezequielmrivero@outlook.com" height="25" alt="Outlook logo" />
+  <a href="https://www.linkedin.com/in/ezequielmrivero" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
+  </a>
+  <a href="https://ezemriv.github.io/DS-Portfolio/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=link&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfolio logo" />
+  </a>
+  <a href="mailto:ezequielmrivero@outlook.com">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=mail&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Outlook logo" />
+  </a>
 </div>
+
 
 ###
 
