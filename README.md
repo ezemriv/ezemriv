@@ -19,7 +19,7 @@
 
 A **Data Scientist** and former PhD Molecular **Biology Researcher**, with a passion for data mining and machine learning. Coming from a biomedical background, I love exploring the intersection of data science and nature, both in healthcare and sustainability.
 
-- 🔭 Currently working on **freelance projects.**
+- 🔭 Currently exploring a completely different field at **Caixabank Payments & Consumer**
 
 - 🌱 Learning **AWS, React, and algo trading.**
 
