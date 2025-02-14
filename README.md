@@ -62,7 +62,7 @@ A **Data Scientist** and former PhD Molecular **Biology Researcher**, with a pas
   <!-- DevOps -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo" />
   <img width="auto" />
-  <img src="https://raw.githubusercontent.com/mlflow/mlflow/master/docs/source/_static/MLflow-logo-final-black.png" height="30" alt="mlflow logo" />
+  <img src="https://cdn.brandfetch.io/idS8GMP5c8/w/820/h/301/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" height="30" alt="mlflow logo" />
   <img width="auto" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="aws logo" />
   <img width="auto" />
