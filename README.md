@@ -17,11 +17,11 @@
 
 ###
 
-A **Data Scientist** and former PhD Molecular **Biology Researcher**, with a passion for data mining and machine learning. Coming from a biomedical background, I love exploring the intersection of data science and nature, both in healthcare and sustainability.
+A **Data Scientist** and former PhD Molecular **Researcher**. My journey has taken me from studying cancer genomics to building fraud detection systems, and now I’m exploring the intersection of AI, finance, and Web3.
 
-- 🔭 Currently exploring a completely different field at **Caixabank Payments & Consumer**
+- 🔭 Currently working on **fraud detection and AI-driven financial solutions** at **CaixaBank Payments & Consumer**  
 
-- 🌱 Learning **AWS, React, and algo trading.**
+- 🌱 Always learning—currently diving into **Web3 and crypto analytics**
 
 - 👨‍💻 All of my projects are available at my [Portfolio](https://ezemriv.github.io/DS-Portfolio/)
 
