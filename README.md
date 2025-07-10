@@ -19,7 +19,7 @@
 
 A **Data Scientist** and former PhD Molecular **Researcher**. My journey has taken me from studying cancer genomics to building fraud detection systems, and now I’m exploring the intersection of AI, finance, and Web3.
 
-- 🔭 Currently working on **fraud detection and AI-driven financial solutions** at **CaixaBank Payments & Consumer**  
+- 🔭 Currently working on **fraud detection and AI-driven financial solutions** at **CaixaBank Payments & Consumer**
 
 - 🌱 Always learning—currently diving into **Web3 and crypto analytics**
 
@@ -64,7 +64,7 @@ A **Data Scientist** and former PhD Molecular **Researcher**. My journey has tak
   <img width="auto" />
   <img src="https://cdn.brandfetch.io/idS8GMP5c8/w/820/h/301/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" height="30" alt="mlflow logo" />
   <img width="auto" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="aws logo" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="google cloud logo" />
   <img width="auto" />
   <!-- Web Development -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
