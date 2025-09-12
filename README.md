@@ -17,15 +17,12 @@
 
 ###
 
-A **Data Scientist** and former PhD Molecular **Researcher**. My journey has taken me from studying cancer genomics to building fraud detection systems, and now I’m exploring the intersection of AI, finance, and Web3.
+My journey as a **Data Scientist** began in the lab as a PhD Molecular **Researcher**. I've since traded genomics for algorithms, building intelligent systems to solve complex challenges in fraud detection, finance, and now, the travel tech industry.
 
-- 🔭 Currently working on **fraud detection and AI-driven financial solutions** at **CaixaBank Payments & Consumer**
-
-- 🌱 Always learning—currently diving into **Web3 and crypto analytics**
-
-- 👨‍💻 All of my projects are available at my [Portfolio](https://ezemriv.github.io/DS-Portfolio/)
-
-- ⛰️ In my free time I run out to a mountain somewhere.
+- 🚀 Currently engineering core machine learning systems for pricing and revenue optimization at **eDreams ODIGEO**.
+- 📈 Exploring the new frontier of digital assets—from **on-chain crypto analytics** to building automated **quantitative trading** systems on **Google Cloud**.
+- 👨‍💻 Explore my work and projects on my [Portfolio](https://ezemriv.github.io/DS-Portfolio/).
+- ⛰️ When I'm not coding, I'm chasing summits in the mountains.
 
 ###
 
